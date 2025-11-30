@@ -15,7 +15,7 @@ public class App extends Application {
 
     private static Scene scene;
 
-    double scale = 1.5;
+    double scale = 2;
 
     double baseheight = 640;
     double basewidth = 360;
